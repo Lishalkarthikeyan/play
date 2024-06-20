@@ -1,0 +1,86 @@
+{
+  "project_info": {
+    "project_number": "314067456150",
+    "project_id": "playmusic143-d2263",
+    "storage_bucket": "playmusic143-d2263.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314067456150:android:33abe66a917a6ce099f2b7",
+        "android_client_info": {
+          "package_name": "com.example.musicplay"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhlTIp41yyJJmIVXrpsPdt3_3ukn08wvg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314067456150:android:d57f46424c679b7199f2b7",
+        "android_client_info": {
+          "package_name": "com.example.playmusic"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhlTIp41yyJJmIVXrpsPdt3_3ukn08wvg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314067456150:android:f8e592c2bb90005499f2b7",
+        "android_client_info": {
+          "package_name": "com.playmusic.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhlTIp41yyJJmIVXrpsPdt3_3ukn08wvg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314067456150:android:5f0d8bece039bbb899f2b7",
+        "android_client_info": {
+          "package_name": "com.remo.musicplay"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhlTIp41yyJJmIVXrpsPdt3_3ukn08wvg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
